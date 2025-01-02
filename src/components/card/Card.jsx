@@ -48,7 +48,18 @@ const Card = () => {
                 publishing industries for previewing layouts and visual mockups.
               </p>
             </SwiperSlide>
-            <SwiperSlide>Slide 2</SwiperSlide>
+            <SwiperSlide className="bg-[#0f1624] flex flex-col items-center text-center px-8 py-8 rounded-xl">
+              <div className="flex justify-center items-center w-full">
+                <img className="h-auto" src={Naxly} alt="Naxly" />
+              </div>
+              <h3 className="font-bold text-2xl leading-8 text-[#b8babe]">
+                Naxly as the Winners in Global Agency Awards
+              </h3>
+              <p className="font-semibold text-base leading-6 max-w-[302px] text-[#b8babe]">
+                dsdssd ipsum is placeholder text commonly used in print, and
+                publishing industries for previewing layouts and visual mockups.
+              </p>
+            </SwiperSlide>
             <SwiperSlide>Slide 3</SwiperSlide>
             <SwiperSlide>Slide 4</SwiperSlide>
             <SwiperSlide>Slide 5</SwiperSlide>
