@@ -44,7 +44,7 @@ const Card = () => {
                 Naxly as the Winners in Global Agency Awards
               </h3>
               <p className="font-semibold text-base leading-6 max-w-[302px] text-[#b8babe]">
-                Lorem ipsum is placeholder text commonly used in print, and
+                dsdssd ipsum is placeholder text commonly used in print, and
                 publishing industries for previewing layouts and visual mockups.
               </p>
             </SwiperSlide>
