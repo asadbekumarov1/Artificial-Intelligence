@@ -23,13 +23,13 @@ const Header = () => {
               <NavLink to={"/home"}>{t("Home")}</NavLink>
             </li>
             <li className="text-white font-semibold text-base leading-5">
-              <NavLink to={"/about"}>{t("About")}</NavLink>
+              <NavLink to={"/apply"}>{t("About")}</NavLink>
             </li>
             <li className="text-white font-semibold text-base leading-5">
-              <NavLink to={"/services"}>{t("Services")}</NavLink>
+              <NavLink to={"/card"}>{t("Services")}</NavLink>
             </li>
             <li className="text-white font-semibold text-base leading-5">
-              <NavLink to={"/blog"}>{t("Blog")}</NavLink>
+              <NavLink to={"/what"}>{t("Blog")}</NavLink>
             </li>
             <li className="text-white font-semibold text-base leading-5">
               <NavLink to={"/contact"}>{t("Contact")}</NavLink>
